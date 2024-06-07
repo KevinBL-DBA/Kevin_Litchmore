@@ -1,5 +1,5 @@
 # Data Professional
-### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me|<br> https://github.com/KevinBL-DBA/Projects
+### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me|<br> (https://github.com/KevinBL-DBA/Projects)
 
 ## Technical Skills: 
 
