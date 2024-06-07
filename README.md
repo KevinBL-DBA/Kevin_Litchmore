@@ -3,9 +3,11 @@
 ### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me| https://github.com/KevinBL-DBA/Projects
 
 ## Technical Skills: 
+
 Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc |Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
 
 ## Work Experience:
+
 **Network Consultant NETGEAR 12/2021 - Current**    
 
 ●	Leveraged Power Query Editor and DAX functions, to efficiently clean, reshape, and enrich raw data from disparate sources, addressing data quality issues such as missing values, inconsistent formats, and duplicates, enabling the creation of reliable and insightful data models for advanced analytics and visualizations.<br>
@@ -31,19 +33,22 @@ Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Ma
 ●	Successfully executed special projects and delivered comprehensive presentations as directed by the network engineer, contributing to team objectives and project milestones<br>
 
 ## Certifications
+
 ●	CompTIA A+| CompTIA Network+| CompTIA Data+
 
 ## Education
-University of Maryland Global Campus                                                                                                                         
-Bachelor of Science, Computer Networks & Cybersecurity
-●	Dean's List
-University of Maryland Global Campus                                                                                                                  
-Master of Science, Database Systems Technology (In-progress)
+
+University of Maryland Global Campus <br>                                                                                                                        
+Bachelor of Science, Computer Networks & Cybersecurity<br>
+●	Dean's List<br>
+University of Maryland Global Campus<br>                                                                                                               
+Master of Science, Database Systems Technology (In-progress)<br>
 
 ## Projects
-●	[Engineered Robust Data Architectures](https://github.com/KevinBL-DBA/Projects/tree/main/DDL_DML%20Project%20Showcase): Crafted intricate data structures through meticulous table design and implementation of sophisticated data manipulation techniques, ensuring efficient storage, retrieval, and transformation of information within the Oracle database ecosystem using SQL.
-●	[Secure Access Database Privileges](https://github.com/KevinBL-DBA/Projects/tree/main/DBA%20Least%20Privilege%20Project%20Showcase): Design and implement a secure SQL database with role-based access controls to grant appropriate privileges to employees for managing customer data and to customers for viewing their own account information.
-●	[AWS Linux Server Elastic Cloud Computing (EC2)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20Linux%20OS.docx): Established a robust AWS Linux server instance, configured for secure host access through SSH, ensuring optimal operational integrity.
-●	[AWS Windows Server Elastic Cloud Computing (EC2)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20Windows%20OS.docx): Engineered a secure AWS Windows server instance, enabling remote desktop access via RDP for seamless host connectivity.
-●	[AWS Simple Storage Service (S3)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20S3%20Bucket.docx): Developed a scalable cloud-based solution enabling secure data transfer, which allows users to efficiently upload and download files to a Linux-based Elastic Compute Cloud (EC2) instance via the AWS Command Line Interface (CLI).
-●	[AWS Cloud Data Migration Pipeline](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20and%20S3%20Use%20Case.docx):Architected a secure and scalable AWS cloud-based data migration pipeline leveraging EC2 instances and S3 storage, enabling seamless data transfer between data engineers, and data analysts in a production environment.
+
+●	[Engineered Robust Data Architectures](https://github.com/KevinBL-DBA/Projects/tree/main/DDL_DML%20Project%20Showcase): Crafted intricate data structures through meticulous table design and implementation of sophisticated data manipulation techniques, ensuring efficient storage, retrieval, and transformation of information within the Oracle database ecosystem using SQL.<br>
+●	[Secure Access Database Privileges](https://github.com/KevinBL-DBA/Projects/tree/main/DBA%20Least%20Privilege%20Project%20Showcase): Design and implement a secure SQL database with role-based access controls to grant appropriate privileges to employees for managing customer data and to customers for viewing their own account information.<br>
+●	[AWS Linux Server Elastic Cloud Computing (EC2)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20Linux%20OS.docx): Established a robust AWS Linux server instance, configured for secure host access through SSH, ensuring optimal operational integrity.<br>
+●	[AWS Windows Server Elastic Cloud Computing (EC2)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20Windows%20OS.docx): Engineered a secure AWS Windows server instance, enabling remote desktop access via RDP for seamless host connectivity.<br>
+●	[AWS Simple Storage Service (S3)](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20S3%20Bucket.docx): Developed a scalable cloud-based solution enabling secure data transfer, which allows users to efficiently upload and download files to a Linux-based Elastic Compute Cloud (EC2) instance via the AWS Command Line Interface (CLI).<br>
+●	[AWS Cloud Data Migration Pipeline](https://github.com/KevinBL-DBA/Projects/blob/main/AWS%20Project%20Showcase/AWS%20EC2%20and%20S3%20Use%20Case.docx):Architected a secure and scalable AWS cloud-based data migration pipeline leveraging EC2 instances and S3 storage, enabling seamless data transfer between data engineers, and data analysts in a production environment.<br>
