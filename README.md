@@ -1,10 +1,9 @@
 # Data Professional
-### Kevin Litchmore 
 ### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me| https://github.com/KevinBL-DBA/Projects
 
 ## Technical Skills: 
 
-Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc |Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
+Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc <br>Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
 
 ## Work Experience:
 
