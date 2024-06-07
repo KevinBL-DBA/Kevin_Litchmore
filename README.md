@@ -1,30 +1,34 @@
 # Data Professional
 ### Kevin Litchmore 
 ### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me| https://github.com/KevinBL-DBA/Projects
-## Technical Skills: Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc |Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
+
+## Technical Skills: 
+Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc |Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
 
 ## Work Experience:
-**Network Consultant NETGEAR 12/2021 - Current**                                                                          
-●	Leveraged Power Query Editor and DAX functions, to efficiently clean, reshape, and enrich raw data from disparate sources, addressing data quality issues such as missing values, inconsistent formats, and duplicates, enabling the creation of reliable and insightful data models for advanced analytics and visualizations.
-●	Analyze and evaluate network processes, requirements and recommend strategies to increase client satisfaction. 
-●	Maintain knowledge of industry best practices and provide IT network recommendations/strategies based on industry practice.
-●	Provide technical expertise on network technologies and provide advice in accordance with the latest IEEE standards.
-●	Perform testing and evaluation to ensure quality and consistency with existing client network infrastructure. 
-●	Assess key client requirements and establish optimal solutions leveraging existing capabilities within client’s network infrastructure. 
-●	Facilitate collaboration with colleagues to identify new opportunities for improving and optimizing client networks.
-●	Provide network and system specification documentation to address integration concerns for client’s network infrastructure replacement. 
-●	Conduct comprehensive evaluations of network hardware and software products, providing strategic recommendations to enhance system performance and reliability.
+**Network Consultant NETGEAR 12/2021 - Current**    
+
+●	Leveraged Power Query Editor and DAX functions, to efficiently clean, reshape, and enrich raw data from disparate sources, addressing data quality issues such as missing values, inconsistent formats, and duplicates, enabling the creation of reliable and insightful data models for advanced analytics and visualizations.<br>
+●	Analyze and evaluate network processes, requirements and recommend strategies to increase client satisfaction. <br>
+●	Maintain knowledge of industry best practices and provide IT network recommendations/strategies based on industry practice.<br>
+●	Provide technical expertise on network technologies and provide advice in accordance with the latest IEEE standards.<br>
+●	Perform testing and evaluation to ensure quality and consistency with existing client network infrastructure. <br>
+●	Assess key client requirements and establish optimal solutions leveraging existing capabilities within client’s network infrastructure. <br>
+●	Facilitate collaboration with colleagues to identify new opportunities for improving and optimizing client networks.<br>
+●	Provide network and system specification documentation to address integration concerns for client’s network infrastructure replacement. <br>
+●	Conduct comprehensive evaluations of network hardware and software products, providing strategic recommendations to enhance system performance and reliability.<br>
 
 **Network Administrator United States Army 04/2016 - 12/2021**
-●	Designing, implementing, and testing wireless, Local Area Network (LAN), Wide Area Network (WAN), Wireless Networking (Wi-Fi), and other data communications systems.
-●	Coordinating network maintenance activities with external network managers, and other technical service personnel.
-●	Performing network hardware/software troubleshooting, performance tuning, and security auditing.
-●	Maintaining technological proficiency and certification through training, education sessions, seminars, and courses. 
-●	Assigning field calls and balancing the workload for the deployment of new equipment and facilitating the replacement of legacy equipment. 
-●	Monitoring network performance and identifying and resolving issues to minimize downtime over joint interoperability networks.
-●	Spearheaded the standardization, development, and implementation of robust network infrastructure backup procedures, ensuring business continuity and data integrity. 
-●	Expertly conducted research and selection of hardware and software solutions for deployment, ensuring optimal client support and service satisfaction.
-●	Successfully executed special projects and delivered comprehensive presentations as directed by the network engineer, contributing to team objectives and project milestones
+
+●	Designing, implementing, and testing wireless, Local Area Network (LAN), Wide Area Network (WAN), Wireless Networking (Wi-Fi), and other data communications systems.<br>
+●	Coordinating network maintenance activities with external network managers, and other technical service personnel.<br>
+●	Performing network hardware/software troubleshooting, performance tuning, and security auditing.<br>
+●	Maintaining technological proficiency and certification through training, education sessions, seminars, and courses. <br>
+●	Assigning field calls and balancing the workload for the deployment of new equipment and facilitating the replacement of legacy equipment. <br>
+●	Monitoring network performance and identifying and resolving issues to minimize downtime over joint interoperability networks.<br>
+●	Spearheaded the standardization, development, and implementation of robust network infrastructure backup procedures, ensuring business continuity and data integrity. <br>
+●	Expertly conducted research and selection of hardware and software solutions for deployment, ensuring optimal client support and service satisfaction.<br>
+●	Successfully executed special projects and delivered comprehensive presentations as directed by the network engineer, contributing to team objectives and project milestones<br>
 
 ## Certifications
 ●	CompTIA A+| CompTIA Network+| CompTIA Data+
