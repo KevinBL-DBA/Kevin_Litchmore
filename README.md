@@ -1,5 +1,5 @@
 # Data Professional
-### Kevin Litchmore </h1> 
+### Kevin Litchmore 
 ### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me| https://github.com/KevinBL-DBA/Projects
 
 ## Technical Skills: 
