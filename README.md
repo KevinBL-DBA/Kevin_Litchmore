@@ -38,10 +38,10 @@ Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Ma
 
 ## Education
 
-University of Maryland Global Campus <br>                                                                                                                        
+University of Maryland Global Campus <br>                                                                                               
 Bachelor of Science, Computer Networks & Cybersecurity<br>
 ●	Dean's List<br>
-University of Maryland Global Campus<br>                                                                                                               
+University of Maryland Global Campus<br>                                                                                                    
 Master of Science, Database Systems Technology (In-progress)<br>
 
 ## Projects
