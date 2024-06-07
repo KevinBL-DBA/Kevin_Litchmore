@@ -3,7 +3,10 @@
 
 ## Technical Skills: 
 
-Oracle SQL Developer| Oracle SQL Developer Data Modeler| SQL Plus| SQL Server Management Studio| R Studio| Oracle VirtualBox Manager| TCP/IP|DNS| DHCP | SNMPc <br>Windows Server| Linux| VMware |Hyper-V| VirtualBox| SolarWinds
+- Oracle SQL Developer|Oracle SQL Developer Data Modeler|
+- SQL Plus| SQL Server Management Studio|R Studio|
+- Oracle VirtualBox Manager| TCP/IP|DNS| DHCP|VirtualBox| 
+- SNMPc <br>Windows Server| Linux| VMware |Hyper-V| SolarWinds
 
 ## Work Experience:
 
