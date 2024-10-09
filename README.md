@@ -1,4 +1,4 @@
-# Data Professional
+# Information Technologies Professional
 ### Queens, NY | (347) - 702 - 2440 | litchkb@gmail.com|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
 
 ## Technical Skills: 
