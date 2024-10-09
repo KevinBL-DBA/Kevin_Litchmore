@@ -1,5 +1,5 @@
 # Data Professional
-### Queens, NY | (347) - 702 - 2440 | litchkb@proton.me|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
+### Queens, NY | (347) - 702 - 2440 | litchkb@gmail.com|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
 
 ## Technical Skills: 
 
@@ -44,7 +44,7 @@ University of Maryland Global Campus <br>
 Bachelor of Science, Computer Networks & Cybersecurity<br>
 ●	Dean's List<br><br>
 University of Maryland Global Campus<br>
-Master of Science, Database Systems Technology (In-progress)<br>
+Master of Science, Database Systems Technology<br>
 
 ## Projects
 
