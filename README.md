@@ -44,7 +44,7 @@ University of Maryland Global Campus <br>
 Bachelor of Science, Computer Networks & Cybersecurity<br>
 ●	Dean's List<br><br>
 University of Maryland Global Campus<br>
-Master of Science,Information Technology: Database Systems Technology<br>
+Master of Science, Information Technology: Database Systems Technology<br>
 
 ## Projects
 
