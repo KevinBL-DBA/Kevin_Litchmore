@@ -1,5 +1,5 @@
 # Information Technology Professional
-### College Park, MD | (347) - 702 - 2440 | litchkb@gmail.com|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
+### College Park, MD | (347) - 702 - 2440 | litchkb@gmail.com |<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
 
 ## Technical Skills: 
 
