@@ -1,5 +1,5 @@
 # Information Technology Professional
-### Queens, NY | (347) - 702 - 2440 | litchkb@gmail.com|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
+### College Park, MD | (347) - 702 - 2440 | litchkb@gmail.com|<br> [Technical Projects](https://github.com/KevinBL-DBA/Projects)
 
 ## Technical Skills: 
 
@@ -24,19 +24,19 @@
 
 **Network Administrator United States Army 04/2016 - 12/2021**
 
-●	Designing, implementing, and testing wireless, Local Area Network (LAN), Wide Area Network (WAN), Wireless Networking (Wi-Fi), and other data communications systems.<br>
-●	Coordinating network maintenance activities with external network managers, and other technical service personnel.<br>
-●	Performing network hardware/software troubleshooting, performance tuning, and security auditing.<br>
-●	Maintaining technological proficiency and certification through training, education sessions, seminars, and courses. <br>
-●	Assigning field calls and balancing the workload for the deployment of new equipment and facilitating the replacement of legacy equipment. <br>
-●	Monitoring network performance and identifying and resolving issues to minimize downtime over joint interoperability networks.<br>
-●	Spearheaded the standardization, development, and implementation of robust network infrastructure backup procedures, ensuring business continuity and data integrity. <br>
-●	Expertly conducted research and selection of hardware and software solutions for deployment, ensuring optimal client support and service satisfaction.<br>
-●	Successfully executed special projects and delivered comprehensive presentations as directed by the network engineer, contributing to team objectives and project milestones<br>
-
+●	Designing, implementing, and testing for, Local Area Network (LAN), Wide Area Network (WAN), and Wireless Networking (Wi-Fi) using tools such as Traceroute..<br>
+●	Performed network maintenance of CISCO routers, switches, and firewalls with external network managers, and other technical service personnel.<br>
+●	Establishing Wide Area Network (WAN) connection through the Open Shortest Path First (OSPF) protocol by creating connections using OSPF neighbors using CISCO layer 3 switches and routers.<br>
+●	Hardening network security by implementing port security on CISCO switches when applicable. <br>
+●	Implementation of the encapsulation protocol in the CISCO routers to establish the connection to a Virtual Local Area Network (VLAN) for network segmentation through CISCO switches. <br>
+●	Create a virtualization instance using VMware (ESXI) as a basis to establish connections to CISCO Unified Call Manager (CUCM).<br>
+●	Utilizing SNMPc to monitor network performance to identify and resolve issues to minimize downtime over joint interoperability networks. <br>
+●	Established both Local Area Network (LAN), and Wide Area Network (WAN) server-side connections using SolarWinds to store CISCO IOS baseline configurations on designated servers. <br>
+●	Utilized various selections of CISCO routers, access points, and switches for  Local Area Network (LAN) and Wide Area Network (WAN) deployment to ensure optimal support and service satisfaction. <br>
+●	Successfully improved network security by configuring whitelists of access points where applicable. <br>
 ## Certifications
 
-●	CompTIA A+| CompTIA Network+| CompTIA Data+
+●	CompTIA CIOS|CompTIA A+ | CompTIA Network+ | CompTIA Data+
 
 ## Education
 
